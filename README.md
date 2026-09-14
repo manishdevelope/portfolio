@@ -1,2 +1,2 @@
 # portfolio
-my personal portfolio website using HTML ,CSS and Javascript
+my personal portfolio website using HTML ,CSS and Javascript.
